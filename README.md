@@ -1,2 +1,2 @@
 # Learning-Typescript-Q1-Assignment-1
- Learning Typescript
+## Getting Started Exercises with TypeScript and Node.js
