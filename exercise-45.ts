@@ -20,3 +20,5 @@ let car2 = storeCar("Toyota", "1999", { "Color": " White", "Type": "Manual" });
 
 console.log(car1);
 console.log(car2);
+
+// COMPLETED
