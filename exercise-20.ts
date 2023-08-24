@@ -6,3 +6,6 @@ Write a program that creates a list containing these items. */
 
 const cities: string[] = ["Karachi", "Islamabad", "Lahore", "Pindi"];
 const languages: string[] = ["Urdu", "English", "Germen", "Spanish"];
+
+console.log(cities);
+console.log(languages);
